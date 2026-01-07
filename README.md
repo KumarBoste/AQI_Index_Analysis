@@ -1,2 +1,1 @@
-# AQI_Index_Analysis
-Power BI
+# AQI Index Analysis (Power BI)
