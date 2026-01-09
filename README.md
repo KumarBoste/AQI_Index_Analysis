@@ -1,4 +1,5 @@
 # AQI Index Analysis (Power BI)
+![Logo](https://github.com/KumarBoste/AQI_Index_Analysis/blob/main/Logo%20%26%20Icons/Logo.png)
 
 ## Project Objective
 The objective of this project is to analyze Air Quality Index (AQI) data across different years, states, and urban areas in India to understand pollution severity, identify high-risk regions, and determine the most dominant pollutants.
