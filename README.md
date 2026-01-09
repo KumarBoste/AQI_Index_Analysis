@@ -13,6 +13,9 @@ Air pollution has become a major environmental and public health concern in Indi
 
 This project addresses these challenges by transforming raw AQI data into meaningful, interactive insights using Power BI.
 
+## Dashboard 
+![Dashboard](https://github.com/KumarBoste/AQI_Index_Analysis/blob/main/Power%20Bi%20Dashboard/AQI%20Index%20Dashboard%20SS.png)
+
 ## Data Visualization & Insights
 ### 1. Overall AQI Indicator (Gauge)
 - Displays current AQI value for the selected filters.
